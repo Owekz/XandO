@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, tictactoe!</string>
+    <string name="app_name">X and O</string>
+    <string name="descrip">X and O</string>
+    <string name="name">Tic-Tac-Toe</string>
+    <string name="vs_computer">Player vs. Computer</string>
+    <string name="vs_player">Player vs. Player</string>
+    <string name="stats">View Stats</string>
+    <string name="Quit">Quit</string>
+    <string name="Submit">Submit</string>
+    <string name="over">Game Over</string>
+    <string name="hint">James Johnson</string>
+    <string name="p_one_name">Player 1 Enter Your Name:</string>
+
+
+
+</resources>
+
